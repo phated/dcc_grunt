@@ -1,0 +1,13 @@
+{
+  "name": "gruntfile_example",
+  "version": "0.1.0",
+  "homepage": "http://iceddev.com",
+  "author": {
+    "name": "Blaine Bublitz"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
