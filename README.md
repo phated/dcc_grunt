@@ -40,4 +40,4 @@
 	* grunt.utils renamed to grunt.util (don't know why)
 	* Split into many small modules (tasks) - under grunt-contrib-NAME
 	* Many small task changes
-	* [https://github.com/gruntjs/grunt/blob/devel/docs/migration_guide.mds]
+	* https://github.com/gruntjs/grunt/blob/devel/docs/migration_guide.mds
