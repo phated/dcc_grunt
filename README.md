@@ -26,6 +26,11 @@
 	* Explain the `default` task
 7. Adding local and NPM tasks
 8. Templates
+	* `grunt.template.process(template, options)` - `options.data` passed to template
+		* `config` - use <% %> style delimiters (default)
+		* `init` - use {% %} style delimiters (used in init task templates)
+		* `user` - use [% %] style delimiters (not used internally in grunt)
+	* `grunt.template.date(date, format)` and `grunt.template.today(format)`
 9. Discuss the differences between Grunt and Yeoman
 	* Yeoman is an opinionated version of Grunt (SASS/Compass, Bootstrap, Mocha, RequireJS)
 	* Adds Bower for package management
