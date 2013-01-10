@@ -1,0 +1,37 @@
+{
+  "name": "grunt-plugin",
+  "description": "The best sample grunt tasks ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/phated/dcc_grunt",
+  "author": {
+    "name": "Blaine Bublitz",
+    "email": "blaine@iceddev.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phated/dcc_grunt"
+  },
+  "bugs": {
+    "url": "https://github.com/phated/dcc_grunt/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/phated/dcc_grunt/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "grunt.js",
+  "bin": "bin/grunt-plugin",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.17"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}

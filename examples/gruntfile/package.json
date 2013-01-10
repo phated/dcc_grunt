@@ -9,5 +9,8 @@
     {
       "type": "MIT"
     }
-  ]
+  ],
+  "dependencies": {
+    "grunt-jasmine-node": "0.0.4"
+  }
 }
